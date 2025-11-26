@@ -15,8 +15,8 @@ return new class extends Migration
         // First, modify the enum to include the new value
         DB::statement("ALTER TABLE m_status MODIFY status_nama ENUM('menunggu verifikasi', 'ditolak', 'diproses', 'selesai', 'disetujui', 'selesai diperiksa') DEFAULT 'menunggu verifikasi'");
 
-        // Then insert the new status with ID 6
-        DB::table('m_status')->insert([
+        // Then insert the new status with ID 6 (use insertOrIgnore untuk testing)
+        DB::table('m_status')->insertOrIgnore([
             'status_id' => 6,
             'status_nama' => 'selesai diperiksa',
             'created_at' => now(),
