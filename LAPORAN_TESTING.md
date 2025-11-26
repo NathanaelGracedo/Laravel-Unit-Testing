@@ -3,11 +3,9 @@
 
 ---
 
-### Identitas Mahasiswa
-- **Nama**: [Nama Mahasiswa]
-- **NIM**: [NIM Mahasiswa]
-- **Kelas**: [Kelas]
-- **Dosen Pengampu**: [Nama Dosen]
+### Identitas Kelompok
+- **Nama Kelompok**: Kelompok 4 Penjaminan Mutu Perangkat Lunak
+- **Kelas**: TI-3H
 
 ---
 
@@ -735,7 +733,7 @@ Testing bukan hanya tentang memastikan kode bekerja, tetapi juga tentang meningk
 
 ---
 
-**Dibuat oleh**: [Nama Mahasiswa]  
+**Dibuat oleh**: Kelompok 4 Penjaminan Mutu Perangkat Lunak TI-3H
 **Tanggal**: November 26, 2025  
 **Mata Kuliah**: Penjaminan Mutu Perangkat Lunak  
 **Aplikasi**: LaporSana - Sistem Pelaporan Fasilitas

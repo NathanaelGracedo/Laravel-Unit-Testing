@@ -23,3 +23,16 @@ php artisan migrate
 
 </div>
 
+# LaporSana - Testing Project
+
+Project Laravel Testing untuk tugas Penjaminan Mutu Perangkat Lunak.
+
+## Testing Coverage
+- ✅ Authentication Testing
+- ✅ CRUD Fasilitas Testing
+- ✅ Unit Testing (User & Fasilitas Model)
+
+## How to Run Tests
+```bash
+php artisan test
+
