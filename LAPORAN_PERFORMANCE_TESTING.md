@@ -4,14 +4,13 @@
 ---
 
 ### Identitas Kelompok
-- **Kelompok**: [Nomor Kelompok]
+- **Kelompok**: 4
 - **Anggota**:
-  1. [Nama Anggota 1] - [NIM]
-  2. [Nama Anggota 2] - [NIM]
-  3. [Nama Anggota 3] - [NIM]
-  4. [Nama Anggota 4] - [NIM]
-- **Kelas**: [Kelas]
-- **Dosen Pengampu**: [Nama Dosen]
+  1. Broto Agung Wicaksono - 2241720092
+  2. Ghenya Rahima Jauhar - 2341720109
+  3. Naditya Prastia Andino - 244107023008
+  4. Nathanael Juan Graceo - 2341720217
+- **Kelas**: TI-3H
 
 ---
 
@@ -828,7 +827,7 @@ Tools K6 terbukti powerful dan easy-to-use untuk performance testing, dengan ric
 
 ---
 
-**Disusun oleh**: Kelompok [Nomor]  
+**Disusun oleh**: Kelompok 4 Penjaminan Mutu Perangkat Lunak TI-3H
 **Tanggal**: 2 Desember 2025  
 **Mata Kuliah**: Penjaminan Mutu Perangkat Lunak  
 **Aplikasi**: LaporSana - Sistem Pelaporan Fasilitas  
